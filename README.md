@@ -6,7 +6,8 @@ This project is a simple web application that calculates the weight of an object
 - **Interactive Planet Selection**: Users can choose from a variety of planets to see how gravity affects weight.
 - **Responsive UI**: Displays the calculated weight and corresponding planet image.
 - **Enhanced User Feedback**: Provides clear messages for invalid input and guides the user through the process.
-- ![Screenshot (46)](https://github.com/user-attachments/assets/2c1e794a-d47f-4301-9e2b-7cc583a08a4c)
-  ![Screenshot (45)](https://github.com/user-attachments/assets/6bf80525-2f25-4bbd-a6aa-4de50bb18c4a)
-  ![Screenshot (48)](https://github.com/user-attachments/assets/f233ce50-b911-4e78-85b1-16cff01f5921)
-![Screenshot (47)](https://github.com/user-attachments/assets/9a47267c-fea4-4991-a5b6-7eeca8b0a2aa)
+![Screenshot (48)](https://github.com/user-attachments/assets/4cb21e84-3c94-4308-ac99-cd5179ae346c)
+![Screenshot (47)](https://github.com/user-attachments/assets/a5fb1e43-036a-45d1-bb24-809cde70eeba)
+![Screenshot (45)](https://github.com/user-attachments/assets/88fd77e9-00eb-4662-8283-b490124beb61)
+![Screenshot (46)](https://github.com/user-attachments/assets/a590217d-0d62-4380-9e9c-3658c6e4624a)
+
